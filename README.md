@@ -2,11 +2,16 @@
 
 Produs de marketing construit la hackathon: analizează campanii și reclame și semnalează riscurile înainte de publicare.
 
+## Demo
+
+[▶ Clipul de demo (1 min)](demo/demo.mp4)
+
 ## Structură
 
 ```
 backend/    API FastAPI (agenți Gemini, Instagram, alerte Slack)
 frontend/   Aplicația React + Vite
+demo/       Clipul de demo
 ```
 
 ## Pornire
