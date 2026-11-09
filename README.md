@@ -42,4 +42,3 @@ Deschide http://localhost:5173. În dev, Vite trimite cererile `/api` către bac
 | `GEMINI_API_KEY` | Modelul Gemini folosit de agenți |
 | `NEWS_API_KEY` | Știri pentru contextul analizei |
 | `SLACK_WEBHOOK_URL` | Alertele de risc trimise pe Slack |
-.
